@@ -1,2 +1,2 @@
 Olá eu vou aprender o GIT.
-Agora esta ficando melhor
+**Agora*** esta ficando melhor
